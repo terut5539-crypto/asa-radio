@@ -9,13 +9,8 @@
     <itunes:summary>フリーランスのマーケター向けに、広告運用・AI・マーケの最新を2人のホストが深掘りする朝の音声番組。要約ではなく、いつの情報か・出典・こう使えるまで。</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="https://terut5539-crypto.github.io/asa-radio/cover.png"/>
-    <itunes:category text="Business">
-      <itunes:category text="Marketing"/>
-    </itunes:category>
-    <itunes:owner>
-      <itunes:name>灰野</itunes:name>
-      <itunes:email>terut5539@gmail.com</itunes:email>
-    </itunes:owner>
+    <itunes:category text="Business"><itunes:category text="Marketing"/></itunes:category>
+    <itunes:owner><itunes:name>灰野</itunes:name><itunes:email>terut5539@gmail.com</itunes:email></itunes:owner>
     <item>
       <title>Google広告『AI Max』全面移行 — 運用者の仕事はどう変わる</title>
       <description>2026年9月からGoogleが検索広告をAI Maxへ自動アップグレード。キーワードのマッチング時代が終わり、広告文も誘導先もAIが自動生成。運用者の仕事は『キーワード選び』から『AIに何を読ませ何を禁止するかのガードレール設計』へ。出典: Google Marketing Live 2026 ほか(アナグラム/Ledge.ai/CANVAS/MIRAINA、2026年2〜5月)。</description>
