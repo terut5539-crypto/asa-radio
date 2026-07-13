@@ -12,6 +12,28 @@
     <itunes:category text="Business"><itunes:category text="Marketing"/></itunes:category>
     <itunes:owner><itunes:name>灰野</itunes:name><itunes:email>terut5539@gmail.com</itunes:email></itunes:owner>
     <item>
+      <title>Claude Code 動的ワークフロー — 非エンジニアの仕事を並列で回す</title>
+      <description>2026年登場のClaude Code動的ワークフロー。ゴールを渡すとClaudeが工程分解し最大級の並列でサブエージェントを回す。ultracode/effortの起動条件、Skills・Subagentsとの違い、トークン消費の注意。出典: Claude公式Docs(一次)/Zenn/Qiita/Uravationほか、2026年。</description>
+      <itunes:summary>2026年登場のClaude Code動的ワークフロー。ゴールを渡すとClaudeが工程分解し最大級の並列でサブエージェントを回す。ultracode/effortの起動条件、Skills・Subagentsとの違い、トークン消費の注意。出典: Claude公式Docs(一次)/Zenn/Qiita/Uravationほか、2026年。</itunes:summary>
+      <pubDate>Mon, 13 Jul 2026 05:02:00 +0900</pubDate>
+      <enclosure url="https://terut5539-crypto.github.io/asa-radio/audio/ep003-claude-workflows.m4a" length="41464485" type="audio/x-m4a"/>
+      <guid isPermaLink="false">asa-radio-ep003-claude-workflows</guid>
+      <itunes:duration>00:21:28</itunes:duration>
+      <itunes:image href="https://terut5539-crypto.github.io/asa-radio/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Meta広告 Advantage+ 2026 — AI自動化で運用はどう変わる</title>
+      <description>2026年3月、Meta広告が大規模改訂。AI生成コンテンツ開示義務、Advantage+クリエイティブのデフォルトON、1キャンペーンに複数広告セット。クリエイティブが最大の差別化要因(冒頭3秒/月8〜12本量産)。出典: アナグラム(2026-03)/バリュークリエーション/Chokudoriほか、2026年。</description>
+      <itunes:summary>2026年3月、Meta広告が大規模改訂。AI生成コンテンツ開示義務、Advantage+クリエイティブのデフォルトON、1キャンペーンに複数広告セット。クリエイティブが最大の差別化要因(冒頭3秒/月8〜12本量産)。出典: アナグラム(2026-03)/バリュークリエーション/Chokudoriほか、2026年。</itunes:summary>
+      <pubDate>Mon, 13 Jul 2026 05:01:00 +0900</pubDate>
+      <enclosure url="https://terut5539-crypto.github.io/asa-radio/audio/ep002-meta-advantage.m4a" length="35339489" type="audio/x-m4a"/>
+      <guid isPermaLink="false">asa-radio-ep002-meta-advantage</guid>
+      <itunes:duration>00:18:18</itunes:duration>
+      <itunes:image href="https://terut5539-crypto.github.io/asa-radio/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Google広告『AI Max』全面移行 — 運用者の仕事はどう変わる</title>
       <description>2026年9月からGoogleが検索広告をAI Maxへ自動アップグレード。キーワードのマッチング時代が終わり、広告文も誘導先もAIが自動生成。運用者の仕事は『キーワード選び』から『AIに何を読ませ何を禁止するかのガードレール設計』へ。出典: Google Marketing Live 2026 ほか(アナグラム/Ledge.ai/CANVAS/MIRAINA、2026年2〜5月)。</description>
       <itunes:summary>2026年9月からGoogleが検索広告をAI Maxへ自動アップグレード。キーワードのマッチング時代が終わり、広告文も誘導先もAIが自動生成。運用者の仕事は『キーワード選び』から『AIに何を読ませ何を禁止するかのガードレール設計』へ。出典: Google Marketing Live 2026 ほか(アナグラム/Ledge.ai/CANVAS/MIRAINA、2026年2〜5月)。</itunes:summary>
