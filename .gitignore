@@ -1,0 +1,9 @@
+# 配信に必要なものだけ公開する。スクリプト・ログ・作業ファイルは上げない。
+*.mjs
+*.py
+*.sh
+*.log
+*.json
+__pycache__/
+notebook_urls.txt
+.done_*
