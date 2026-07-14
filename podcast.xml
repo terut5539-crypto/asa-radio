@@ -12,6 +12,17 @@
     <itunes:category text="Business"><itunes:category text="Marketing"/></itunes:category>
     <itunes:owner><itunes:name>灰野</itunes:name><itunes:email>terut5539@gmail.com</itunes:email></itunes:owner>
     <item>
+      <title>広告運用 今日の注目（2026-07-14）</title>
+      <description>本日の広告運用 今日の注目。取り上げた記事: P-MAX / AI Max 2026年最新アップデートまとめ／Meta広告 2026年クリエイティブ戦略とAIターゲティング活用術／Google Marketing Live 2026 主要アップデートまとめ。出典: info-pipeline収集(2026-07-14)。2人のホストが要点・出典・実務への活かし方を深掘り。</description>
+      <itunes:summary>本日の広告運用 今日の注目。取り上げた記事: P-MAX / AI Max 2026年最新アップデートまとめ／Meta広告 2026年クリエイティブ戦略とAIターゲティング活用術／Google Marketing Live 2026 主要アップデートまとめ。出典: info-pipeline収集(2026-07-14)。2人のホストが要点・出典・実務への活かし方を深掘り。</itunes:summary>
+      <pubDate>Tue, 14 Jul 2026 10:26:41 +0900</pubDate>
+      <enclosure url="https://terut5539-crypto.github.io/asa-radio/audio/ep-20260714-advertising.m4a" length="39002864" type="audio/x-m4a"/>
+      <guid isPermaLink="false">asa-radio-ep-20260714-advertising</guid>
+      <itunes:duration>00:20:11</itunes:duration>
+      <itunes:image href="https://terut5539-crypto.github.io/asa-radio/cover.png"/>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Claude Code 動的ワークフロー — 非エンジニアの仕事を並列で回す</title>
       <description>2026年登場のClaude Code動的ワークフロー。ゴールを渡すとClaudeが工程分解し最大級の並列でサブエージェントを回す。ultracode/effortの起動条件、Skills・Subagentsとの違い、トークン消費の注意。出典: Claude公式Docs(一次)/Zenn/Qiita/Uravationほか、2026年。</description>
       <itunes:summary>2026年登場のClaude Code動的ワークフロー。ゴールを渡すとClaudeが工程分解し最大級の並列でサブエージェントを回す。ultracode/effortの起動条件、Skills・Subagentsとの違い、トークン消費の注意。出典: Claude公式Docs(一次)/Zenn/Qiita/Uravationほか、2026年。</itunes:summary>
