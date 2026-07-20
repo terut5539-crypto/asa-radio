@@ -8,3 +8,4 @@ __pycache__/
 notebook_urls.txt
 .done_*
 .daily_done_*
+series/
