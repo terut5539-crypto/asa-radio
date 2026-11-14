@@ -8,6 +8,7 @@ __pycache__/
 notebook_urls.txt
 .done_*
 .daily_done_*
+.cleanup_done_*
 series/
 
 # バックアップファイルを公開リポジトリに載せない（2026-09-05: .bakが6件混入していた）
